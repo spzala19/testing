@@ -1,3 +1,6 @@
-p{
+.sd{
 	background-color:blue;
+	border-style:solid;
+	border-color:red;
+	border-width:4px;
 }
